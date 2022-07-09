@@ -1,0 +1,20 @@
+.projects_title{
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(193, 149, 235);
+    text-align: center;
+}
+
+.projects_box_container{
+   
+    display: flex;
+    margin: 20px;
+
+}
+.last{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(149, 56, 237);
+    
+}

@@ -1,0 +1,46 @@
+.homepage_container{
+    display: flex;
+  /*  align-items: center;*/
+    height: 90vh;
+}
+.homepage_left{
+   /* flex: 0.6;*/
+    padding-right: 30px;
+}
+
+.red_color{
+    color:red;
+}
+
+.homepage_left_h1{
+    font-size: 22px;
+    margin-top: 1px;
+    
+}
+.homepage_left_h2{
+    font-size: 48px;
+    font-weight: 700;
+    margin: -15px 0;
+    padding-top: 10px;
+}
+.homepage_left_h3{
+    font-size: 40px;
+}
+.homepage_left_description{
+    font-style: italic;
+    font-size: xx-large;
+}
+.homepage_logo{
+    height: 140px;
+    margin-left: 150px;
+    width: 150px;
+}
+.social{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    color:rgb(168, 94, 238);
+    padding-top: 60px;
+    padding-bottom: 40px;
+    
+}

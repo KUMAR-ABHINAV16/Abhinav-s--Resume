@@ -1,0 +1,19 @@
+	
+.techstack_container{
+    height: 80vh;
+}
+.techstack_title{
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
+.techstack_icon_container{
+    display: flex;
+    margin: 70px 0px;
+    height: 100px;
+    
+}
+.techstack_title{
+    color: rgb(163, 108, 215);
+   
+}

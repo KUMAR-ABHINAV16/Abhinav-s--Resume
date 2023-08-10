@@ -7,12 +7,13 @@ export default function Projects() {
         {
         image: 
         "https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg",
-        title: "Metaverse",
+        title: "MOVIE BOX",
         sentences: [
-            "-> 3D Artificial World ",
-                "-> Similar to real world",
-                "-> 5G technology ",
-                "-> 360 degree view ",
+            "-> Domain: Web Application|Technologies used: Javascript, React JS , CSS, HTML. ",
+                "-> Developed an application to watch movies by their Genre.",
+                "-> Developed features for the application and enabled authorization to enhance customer experience ",
+                "-> LIVE LINK :-   https://abhinav-movies-box.netlify.app/  "
+                
         ],
         // link: "https://www.google.co.in/",
         },
@@ -21,12 +22,12 @@ export default function Projects() {
         {
             image:
               "https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg",
-            title: "Metaverse",
+            title: "News Website",
             sentences: [
-                "-> Vitually meeting with people  ",
-                "-> NFT ",
-                "-> Security of data",
-                "-> 5G technology ",
+                "-> Technologies used : Html, CSS, Javascript, React Js, Bootstrap.  ",
+                "-> API is used for fetch the news from News API. ",
+                "-> A full-stack web application that displays the latest †news articles from various tech website",
+                "-> Search option is also there for detailed news ",
             ],
             // link: "https://www.google.co.in/",
           },
